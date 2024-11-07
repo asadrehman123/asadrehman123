@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asadrehman123
 - 👀 I’m interested in Machine Learning, Data Science and Deep Learning.
-- 🌱 I’m currently learning Programming Language like python and R for Data science.
+- 🌱 I’m currently done my Bachelor's in Mathematics and learning Programming Language like python and R for Data science.
 - 💞️ I’m looking for a supervisior for my Master's Research in the interested fields.
 - 📫 Reach me by Email: rehmanasad630@gmail.com
 - ⚡ Fun fact: love to play cricket.
