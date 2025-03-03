@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asadrehman123
-- 👀 I’m interested all the fields where Mathematics is used.
+- 👀 I’m interested in all the fields where Mathematics is used.
 - 🌱 I’m currently done my Bachelor's in Mathematics and also experties in Programming Language like python.
   - 📫 Reach me by Email: rehmanasad630@gmail.com
 - ⚡ Fun fact: love to play cricket and love to make food.
